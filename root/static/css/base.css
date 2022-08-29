@@ -13,28 +13,27 @@ a {
   padding-top:0px;
   padding-bottom:12px;
   font-size: 60px;
-  color: #1488CC;  /* fallback for old browsers */
-  color: -webkit-linear-gradient(to right, #2B32B2, #1488CC);  /* Chrome 10-25, Safari 5.1-6 */
-  color: linear-gradient(to right, #2B32B2, #1488CC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #1488CC;
+  color: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+  color: linear-gradient(to right, #2B32B2, #1488CC);
   
 }
 
 #navbar-primary.navbar-default .navbar-nav {
-  width: 100%;
-  text-align: center;
-background: #2193b0;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-  border-radius: 100px ;
+       width: 100%;
+       text-align: center;
+       background: #2193b0;
+       background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);
+       background: linear-gradient(to right, #6dd5ed, #2193b0);
+       border-radius: 100px ;
 }
 #navbar-primary.navbar-default .navbar-nav > li {
-  display: inline-block;
-  float: none;
-  vertical-align: top;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  font-family: 'Grandstander', cursive
+      display: inline-block;
+      float: none;
+      vertical-align: top;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      font-family: 'Grandstander', cursive
 
 }
 #navbar-primary.navbar-default .navbar-nav > li > a {
@@ -118,9 +117,9 @@ box-shadow: none;
 }
 
 .btn {
-background: #457fca;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #457fca;
+background: -webkit-linear-gradient(to right, #5691c8, #457fca);
+background: linear-gradient(to right, #5691c8, #457fca);
 
 
 
@@ -168,9 +167,9 @@ padding-bottom:30px;
 }
 .card {
 
-background: #457fca;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #457fca;
+background: -webkit-linear-gradient(to right, #5691c8, #457fca);
+background: linear-gradient(to right, #5691c8, #457fca);
 
  color:white;
 
@@ -236,9 +235,9 @@ background: linear-gradient(to right, #5691c8, #457fca); /* W3C, IE 10+/ Edge, F
 }
 
 th{
-background: #1e3c72;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #2a5298, #1e3c72);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #2a5298, #1e3c72); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #1e3c72;
+background: -webkit-linear-gradient(to right, #2a5298, #1e3c72);
+background: linear-gradient(to right, #2a5298, #1e3c72);
 
 
 }
@@ -251,9 +250,9 @@ font-family: 'Ubuntu', sans-serif;
 .headline {
   font-family: 'Permanent Marker', cursive;
   padding-top:20px;
- color: #2193b0;  /* fallback for old browsers */
-color:  -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
-color:  linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ color: #2193b0;
+color:  -webkit-linear-gradient(to right, #6dd5ed, #2193b0);
+color:  linear-gradient(to right, #6dd5ed, #2193b0);
 
 }
 .profile-text {
@@ -274,9 +273,9 @@ table.table-bordered > tbody > tr > td {
 }
 
 .profile-submit {
-background: #457fca;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #457fca;
+background: -webkit-linear-gradient(to bottom, #5691c8, #457fca);
+background: linear-gradient(to bottom, #5691c8, #457fca);
 }
 
 .form-labels {
